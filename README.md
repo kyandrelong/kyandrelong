@@ -1,4 +1,4 @@
-<h1>Hi, I'm KyAndre Long, an <a href="www.linkedin.com/in/kyandre-long-99aa60259">IT Professional</a>☺</h1>
+<h1>Hi, I'm KyAndre Long, an <a href="www.linkedin.com/in/kyandre-long-">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
