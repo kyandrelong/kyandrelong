@@ -3,12 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>VM (How to create a Virtual Machine)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kyandrelong/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/kyandrelong/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/kyandrelong/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kyandrelong/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kyandrelong/azure-network-protocols)
+  - https://github.com/kyandrelong/How-to-Create-A-Virutal-Machine
 
 <h2>🤳Connect with me:</h2>
 
