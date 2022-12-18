@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>VM (How to create a Virtual Machine)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kyandrelong/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kyandrelong/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kyandrelong/ticket-lifecycle)
